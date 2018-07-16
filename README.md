@@ -2,7 +2,7 @@
 
 In this mini project, we try to work on the basic heights weights dataset and apply all regression models in caret library to predict the weight.
 
-The final R file is [here](https://github.com/abishekarun/Heights-Weights-Dataset/blob/master/height-weight.R) for this project.
+The final R file is [here](https://github.com/abishekarun/Heights_Weights/blob/master/height_weight.R) for this project.
 
 The resources that helped me are:
 
